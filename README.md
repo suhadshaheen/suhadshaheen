@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Suhad Shaheen! 👋
 
-<!--
-**suhadshaheen/suhadshaheen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓CAP Student Software Engineering Track & Full-Stack Developer
+Aspiring Software Engineer and Back-end Developer.
 
-Here are some ideas to get you started:
+- [cite_start]🎯 Areas of Interest: **Backend Development** & **Quality Assurance (QA)**.
+- [cite_start]💻 Tech Stack: **Laravel, Angular,React, MySQL, C++, JAVA, javascript, and TypeScript**[cite: 13, 38].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- [cite_start]**Languages:** PHP, TypeScript, JavaScript[cite: 13, 38].
+- [cite_start]**Frameworks:** Laravel 12, Angular 19, React[cite: 36, 38].
+- [cite_start]**Database:** MySQL[cite: 38].
+
+### 📫 How to reach me:
+- [cite_start][LinkedIn](https://www.linkedin.com/in/suhadshaheen) [cite: 9]
+- [cite_start]Email: suhadsh.12@gmail.com [cite: 9]
