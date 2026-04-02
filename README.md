@@ -3,14 +3,14 @@
 ### 🎓CAP Student Software Engineering Track & Full-Stack Developer
 Aspiring Software Engineer and Back-end Developer.
 
-- [cite_start]🎯 Areas of Interest: **Backend Development** & **Quality Assurance (QA)**.
-- [cite_start]💻 Tech Stack: **Laravel, Angular,React, MySQL, C++, JAVA, javascript, and TypeScript**[cite: 13, 38].
+- 🎯 Areas of Interest: **Backend Development** & **Quality Assurance (QA)**.
+- 💻 Tech Stack: **Laravel, Angular,React, MySQL, C++, JAVA, javascript, and TypeScript**.
 
 ### 🛠️ Tech Stack & Tools
-- [cite_start]**Languages:** PHP, TypeScript, JavaScript[cite: 13, 38].
-- [cite_start]**Frameworks:** Laravel 12, Angular 19, React[cite: 36, 38].
-- [cite_start]**Database:** MySQL[cite: 38].
+- **Languages:** PHP, TypeScript, JavaScript.
+- **Frameworks:** Laravel 12, Angular 19, React.
+- **Database:** MySQL.
 
 ### 📫 How to reach me:
-- [cite_start][LinkedIn](https://www.linkedin.com/in/suhadshaheen) [cite: 9]
-- [cite_start]Email: suhadsh.12@gmail.com [cite: 9]
+- [LinkedIn](https://www.linkedin.com/in/suhadshaheen) 
+- Email: suhadsh.12@gmail.com [cite: 9]
