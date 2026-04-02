@@ -13,4 +13,4 @@ Aspiring Software Engineer and Back-end Developer.
 
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/suhadshaheen) 
-- Email: suhadsh.12@gmail.com [cite: 9]
+- Email: suhadsh.12@gmail.com 
