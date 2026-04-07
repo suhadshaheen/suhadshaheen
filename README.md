@@ -7,7 +7,7 @@ Aspiring Software Engineer and Back-end Developer.
 - Tech Stack: **Laravel, Angular,React, MySQL, C++, JAVA, javascript, and TypeScript**💻.
 
 ###  Tech Stack & Tools
-- **Languages:** PHP, TypeScript, JavaScript.
+- **Languages:** PHP, TypeScript, JavaScript,C++,JAVA.
 - **Frameworks:** Laravel 12, Angular 19, React.
 - **Database:** MySQL.
 
