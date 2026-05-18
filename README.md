@@ -1,7 +1,7 @@
 # Hi there, I'm Suhad Shaheen! 👋
 
-### CAP Student Software Engineering Track & FullStack Developer 🎓
-Aspiring Software Engineer and Back-end Developer.
+### CAP Student Software Engineering Track  🎓
+Aspiring Back-end Developer.
 
 -  Areas of Interest: **Backend Development** & **Quality Assurance (QA)**.
 - Tech Stack: **Laravel, Angular,React, MySQL, C++, JAVA, javascript, and TypeScript**💻.
